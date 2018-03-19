@@ -2,6 +2,8 @@ detach:  false
 port:    4820
 host:    0.0.0.0
 
+destination: www
+
 version: 1.2.1
 
 google_analytics_key: "UA-105778718-2"
