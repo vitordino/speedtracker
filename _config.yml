@@ -4,7 +4,7 @@ host:    0.0.0.0
 
 version: 1.2.1
 
-google_analytics_key: ""
+google_analytics_key: "UA-105778718-2"
 
 exclude:
   - app
